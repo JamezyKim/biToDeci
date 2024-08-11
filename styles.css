@@ -1,0 +1,32 @@
+/* Place your CSS styles in this file */
+
+.headBorder{
+    text-align: left;
+    width: 400px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    border: 2px solid;
+ }
+
+ .bodyBorder{
+    text-align: left;
+    width: 400px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    border: 2px solid;
+    background-color: lightsalmon;
+ }
+
+.fromto{
+    margin-right: 20px;
+}
+
+.formsbox{
+    display: flex;
+    align-items: center;
+}
+
+.flatBoxes{
+    margin-right: 30px;
+}
+
